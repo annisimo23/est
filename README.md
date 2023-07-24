@@ -6,7 +6,7 @@ function quiz2(){
     (async () => {
         for (i=5; i<15; i++) {
             const profileId = data.profiles[i].id;
-            const FuelURL = data.profiles[i].fuelURL;
+            const FuelURL = data.profiles[0].fuelURL;
             const profilePassword = data.profiles[i].password;
             await axios.get(`http://local.adspower.com:50325/api/v1/browser/start?user_id=${profileId}`).then(async (res) => {
                 console.log(res.data);
