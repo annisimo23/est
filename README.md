@@ -25,6 +25,7 @@ function quiz2(){
                     await page.waitForSelector('#password');
                     await page.type('#password', 'leshchik.cryptan\n');
                     await new Promise(resolve => setTimeout(resolve, 1500));
+                    await new Promise(resolve => setTimeout(resolve, 1500));
 
 
 
