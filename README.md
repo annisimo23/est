@@ -14,6 +14,7 @@ function quiz2(){
                     try {
                         const browser = await puppeteer.connect(
                             { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
+                            Arrested capital))))
                         const page = await browser.newPage();
                         console.log(`otkrili ${i} profil `);
 
