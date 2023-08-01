@@ -7,15 +7,7 @@ function quiz2(){
         for (i=5; i<15; i++) {
             const profileId = data.profiles[i].id;
             const FuelURL = data.profiles[0].fuelURL;
-            const profilePassword = data.profiles[i].password;
-            await axios.get(`http://local.adspower.com:50325/api/v1/browser/start?user_id=${profileId}`).then(async (res) => {
-                console.log(res.data);
-                if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
-                    try {
-                        const browser = await puppeteer.connect(
-                            { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
-                            Arrested capital))))
-                        const page = await browser.newPage();
+            
                         console.log(`otkrili ${i} profil `);
 
                     await page.goto('https://www.google.com/');
