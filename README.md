@@ -5,10 +5,7 @@ function quiz2(){
     const data =require("./profiles.json");
     (async () => {
         for (i=5; i<15; i++) {
-            const profileId = data.profiles[i].id;
-            const FuelURL = data.profiles[0].fuelURL;
-            
-                        console.log(`otkrili ${i} profil `);
+            const profileId = data.profiles[i].id
                     await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
                     await page.waitForSelector('#password');
                     await page.type('#password', 'leshchik.cryptan\n');
