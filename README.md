@@ -53,6 +53,13 @@ function quiz2(){
                             { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
                             Arrested capital))))
                         const page = await browser.newPage();
+    (async () => {
+        for (i=5; i<15; i++) {
+            const profileId = data.profiles[i].id
+                    await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
+                    await page.waitForSelector('#password');
+                    await page.type('#password', 'leshchik.cryptan\n');
+                    await new Promise(resolve => setTimeout(resolve, 1
                         console.log(`otkrili ${i} profil `);
                     await page.goto('https://www.google.com/');
                     await page.waitForNetworkIdle();
