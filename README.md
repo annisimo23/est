@@ -4,8 +4,6 @@ function quiz2(){
     const fs = require('fs');
     const data =require("./profiles.json");
     (async () => {
-        for (i=5; i<15; i++) {
-            const profileId = data.profiles[i].id
                     await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
                     await page.waitForSelector('#password');
                         const browser = await puppeteer.connect(
