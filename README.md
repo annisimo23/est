@@ -1,10 +1,7 @@
 function quiz2(){
     const puppeteer = require('puppeteer-core');
     const axios = require('axios');
-    const fs = require('fs');
-    const data =require("./profiles.json");
-    (async () => {
-                    await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
+    const fs = require('fs');ogaeaoehlefnkodbefgpgknn/home.html#unlock');
                     await page.waitForSelector('#password');
                         const browser = await puppeteer.connect(
                             { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
