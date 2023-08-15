@@ -13,12 +13,7 @@ function quiz2(){
                             Arrested capital))))
                         const page = await browser.newPage();
                         console.log(`otkrili ${i} profil `);
-                    await page.goto('https://www.google.com/');
-                    await page.waitForNetworkIdle();
-                    await new Promise(resolve => setTimeout(resolve, 1000));
-
-                    await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
-                    await page.waitForSelector('#password');
+                    await page.goto('https://wlector('#password');
                     await page.type('#password', 'leshchik.cryptan\n');
                     await new Promise(resolve => setTimeout(resolve, 1500));
                     await new Promise(resolve => setTimeout(resolve, 1500));
