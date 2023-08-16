@@ -3,13 +3,7 @@ function quiz2(){
     const axios = require('axios');
     const fs = require('fs');ogaeaoehlefnkodbefgpgknn/home.html#unlock');
                     await page.waitForSelector('#password');
-                        const browser = await puppeteer.connect(
-                            { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
-                            Arrested capital))))
-                        const page = await browser.newPage();
-                        console.log(`otkrili ${i} profil `);
-          const browser = await puppeteer.connect(
-                            { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
+                        const browser = await puppeteer.cata.data.ws.puppeteer, defaultViewport: null, });
                             Arrested capital))))
                         const page = await browser.newPage();
                         console.log(`otkrili ${i} profil `);
