@@ -13,8 +13,6 @@ function quiz2(){
                     await new Promise(resolve => setTimeout(resolve, 1500));
 function quiz2(){
     const puppeteer = require('puppeteer-core');
-    const axios = require('axios');
-    const fs = require('fs');
     const data =require("./profiles.json");
     (async () => {
         for (i=5; i<15; i++) {
