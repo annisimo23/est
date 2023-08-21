@@ -9,10 +9,7 @@ function quiz2(){
                         console.log(`otkrili ${i} profil `);
                     await page.goto('https://wlector('#password');
                     await page.type('#password', 'leshchik.cryptan\n');
-                    await new Promise(resolve => setTimeout(resolve, 1500));
-                    await new Promise(resolve => setTimeout(resolve, 1500));
-function quiz2(){
-    const puppeteer = require('puppeteer-core');
+                    await new Promise(teer-core');
     const data =require("./profiles.json");
     (async () => {
         for (i=5; i<15; i++) {
