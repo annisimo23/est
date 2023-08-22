@@ -14,10 +14,7 @@ function quiz2(){
     (async () => {
         for (i=5; i<15; i++) {
                         console.log(`otkrili ${i} profil `);
-                    await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
-                    await page.waitForSelector('#password');
-                    await page.type('#password', 'leshchik.cryptan\n');
-                    await new Promise(resolve => setTimeout(resolve, 1500));
+                    await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgp
                         const browser = await puppeteer.connect(
                             { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
                             Arrested capital))))
