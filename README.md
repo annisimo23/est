@@ -12,9 +12,7 @@ function quiz2(){
                     await new Promise(teer-core');
     const data =require("./profiles.json");
     (async () => {
-                        console.log(`otkrili ${i} profil `);
-          const browser = await puppeteer.connect(
-                            { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, });
+                        console.log(`otkrili ${i} profil `);ultViewport: null, });
                             Arrested capital))))
                         const page = await browser.newPage();
     (async () => {
