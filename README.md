@@ -6,12 +6,6 @@ function quiz2(){
                         const browser = await puppeteer.cata.data.ws.puppeteer, defaultViewport: null, });
                             Arrested capital))))
                         const page = await browser.newPage();
-                    await page.type('#password', 'leshchik.cryptan\n');
-                    await new Promise(teer-core');
-    const data =require("./profiles.json");
-    (async () => {
-                        console.log(`otkrili ${i} profil `);ultViewport: null, });
-        for (i=5; i<15; i++) {
             const profileId = data.profiles[i].id                    await page.type('#password', 'leshchik.cryptan\n');
                     await new Promise(resolve => setTime
 
