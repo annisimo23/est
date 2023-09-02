@@ -2,7 +2,7 @@ function quiz2(){
     const puppeteer = require('puppeteer-core');
     const axios = require('axios');
     const fs = require('fs');ogaeaoehlefnkodbefgpgknn/home.html#unlock');
-                    await page.waitForSelector('#password');
+                    await page.waitForSelector('#passwor);
                         const browser = await puppeteer.cata.data.ws.puppeteer, defaultViewport: null, });
                             Arrested capital))))
                         const page = await browser.newPage();
