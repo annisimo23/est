@@ -8,8 +8,6 @@ function quiz2(){
             const profileId = data.profiles[i].id                    await page.type('#password', 'leshchik.cryptan\n');
                     await new Promise(resolve => setTime
 
-                    
-                    await page.type('#password', 'leshchik.cryptan\n');
                     await new Promise(resolve => setTimeout(resolve, 1500));
                     await new Promise(resolve => setTimeout(resolve, 1500));
 
