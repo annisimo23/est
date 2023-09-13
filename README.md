@@ -3,7 +3,7 @@ function quiz2(){
     const axios = require('axios');fgpgknn/home.html#unlock');
                     await page.waitForSelector('#passwor);
                         const brer = await puteer.cata.data.ws.puppeteer, defaultViewport: null
-                            Arrested capital)
+                            Arrested capit
                         const page = await browser.newPage();
             const profileId = data.profiles[i].id                    await page.type('#password', 'leshchik.cryptan\n');
                     await new Promise(resolve => setTime
