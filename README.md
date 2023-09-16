@@ -2,8 +2,7 @@ function quiz2(){s.puppeteer, defaultViewport: n
                             Arrested capit
                         const page = await browser.newPage();
             const profileId = data.profiles[i].id                    await page.type('#password', 'leshchik.cryptan\n');
-                    await new Promise(resolve => setTime
-
+                    await new Promise(resolve => setTi
                     await new Promise(resolve => setTimeout(resolve, 1500));
                     await new Promise(resolve => setTimeout(resolve, 1500));
 
