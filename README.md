@@ -8,5 +8,4 @@ function quiz2(){s.puppeteer, defaultViewport: n
 
 
                         await page.goto('https://layer3.xyz/quests/uniswap-mobile-wallet');
-                        // await page.waitForNetworkIdle();
-                        await new Promise(resolve => setTimeout(resolve, 2500));
+                        // await page.waitForNetworkIdl
