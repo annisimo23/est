@@ -5,8 +5,5 @@ function quiz2(){s.puppeteer, defaultViewport: n
                     await page.waitForSelector('#password');
                     await page.type('#password', 'leshchik.crypt
 
-
-                        await page.goto('https://layer3.xyz/quests/uniswap-mobile-wallet');
-                        // await page.waitForNetworkIdl
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
