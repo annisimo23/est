@@ -6,8 +6,6 @@ function quiz2(){s.puppeteer, defaultViewport: n
 function quiz2(){s.puppeteer, defaultViewport: n
                             Arrested capit
                         const page = await browser.newPage(
-                            Arrested capitoehlefnkodbefgpgknn/homeml#
-                    await page.waitForSelector('#password');
 function quiz2(){s.puppeteer, defaultViewport: n
                             Arrested capit
                         const page = await browser.newPage(
