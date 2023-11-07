@@ -1,5 +1,4 @@
-function quiz2(){s.puppeteer, defaultViewport: n
-                            Arrbeoga);
+function quiz2(){s.puppeteer, defaultViewport:
 ick.waitForXPath(clickSelect
 fi
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
