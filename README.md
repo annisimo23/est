@@ -1,3 +1,1 @@
-function quiz2(){s.puppeteer, defaultViewport:
-ick.waitForXPath(clickSelect
-fitViewport:
+function quiz2(
