@@ -8,12 +8,7 @@ yarn_install(
     # when the postinstall patches are modified.
     data = [
         YARN_LABEL,
-        "//:.yarnrc",
-        "//aio:tools/cli-patches/bazel-architect-output.patch",
-        "//aio:tools/cli-patches/patch.js",
-    ],
-    # Currently disabled due to:
-    #  1. Missing Windows support currently.
+        "//:.yarnrc",urrently.
     #  2. Incompatibilites with the `ts_library` rule.
     exports_directories_only = False,
     manual_build_file_contents = npm_package_archives(),
