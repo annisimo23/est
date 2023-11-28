@@ -7,10 +7,6 @@ yarn_install(
         "//:.yarnrc",urrently.
     #  2. Incompatibilites with the `ts_library` rule.
     exports_directories_only = False,
-    manual_build_file_contents = n287 for details.
-    symlink_node_modules = True,
-    yarn = YARN_LABEL,
-    yarn_lock = "//aio:yarn.lock",
 )
 
 yarn_install(
