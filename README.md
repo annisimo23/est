@@ -3,9 +3,7 @@ ge4.waitForNetworkIdle(
 )
 
 yarn_install(
-    name = "aio_npm",
-        "//:.yarnrc",urrently.
-    #  2. Incompatibilites with the `ts_library` rule.
+    name = "aio_npm",_library` rule.
     exports_directories_only = False,
 )
 
