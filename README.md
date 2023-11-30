@@ -8,9 +8,6 @@ yarn_install(
 )
 
 yarn_install(
-    name = "aio_example_deps",
-    # Rename the default js_library target from "nod
-        "//:.yarnrc",
     ],
     # Disabled because, when False, yarn_install preserves the node_modules folder
     # with bin symlinks in the external repository. This is needed to link the shared
