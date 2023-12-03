@@ -1,7 +1,5 @@
 function quiz2(
-ge4.waitForNetworkIdle(
-    name = "aio_npm",_library` rule.
-    exports_directories_only = False,
+ge4.waitForNetworkIs_only = False,
 )
 
 yarn_install(
