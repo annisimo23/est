@@ -1,6 +1,4 @@
 function quiz2(
-ge4.waitForNetworkIs_only = False,
-)
 
 yarn_install(
     ], folder
