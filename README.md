@@ -1,2 +1,2 @@
 function quiz2(
-5555555555555555555kkkkkkkkkkk
+555555555555
