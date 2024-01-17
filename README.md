@@ -1,4 +1,3 @@
 
 g
 ljkhbog
-= daa.nst 
