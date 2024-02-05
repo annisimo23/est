@@ -13,10 +13,6 @@ ghgfgf
 s const 
 
 umber;.profile[i].passwors[i]s const 
-= daa.nst 
-umber;.profile[i].passwors[i]s const 
-
-umber;.profile[i].passwors[i]s const 
 umber;.profile[i].passwors[i]s const 
 ta.profili].pasSelector
 e(
